@@ -29,7 +29,7 @@ function removeElementFromBeginningOfArray(array){
 }
 
 function destructivelyRemoveElementFromEndOfArray(array){
-  array.pop();
+  var test array.pop();
   return array;
 }
 
