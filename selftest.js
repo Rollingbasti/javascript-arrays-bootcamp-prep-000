@@ -1,3 +1,3 @@
 var arrays = require('./arrays.js');
 
-console.log(arrays.chocolatebars);
+console.log(arrays.chocolateBars);
