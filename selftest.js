@@ -1,3 +1,5 @@
 var arrays = require('./arrays.js');
 
-arrays.remove
+var numbers = [1,2,3];
+
+arrays.
